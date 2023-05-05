@@ -1,0 +1,5 @@
+Start by updating the repository again:
+sudo apt update
+
+Now you can install the latest Docker version with:
+sudo apt-get install docker-ce

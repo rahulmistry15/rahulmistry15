@@ -1,0 +1,5 @@
+To start the Docker service run the following commands:
+sudo systemctl start docker
+
+Enable Docker to run at startup with:
+sudo systemctl enable docker
