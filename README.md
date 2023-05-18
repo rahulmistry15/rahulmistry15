@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rahulmistry15
-- 👀 I’m interested in github, Docker, AWS, GCP,Terraform.
+- 👀 I’m interested in github, Docker, AWS, GCP,Terraform, Jenkins pipeline, Docker Hub.
 - 🌱 I’m currently learning DevOps Course.
 - 💞️ I’m looking to collaborate on people who interested to DevOps.
-- 📫 How to reach me here.
 
 <!---
 rahulmistry15/rahulmistry15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
