@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulmistry15
 - 👀 I’m interested in github, Docker, AWS, GCP,Terraform, Jenkins pipeline, Docker Hub.
-- 🌱 I’m currently learning DevOps Course.
+- 🌱 I love DevOps bcoz its something new.
 - 💞️ I’m looking to collaborate on people who interested to DevOps.
 
 <!---
